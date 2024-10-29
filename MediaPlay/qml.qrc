@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>commonItem/MyButton.qml</file>
+        <file>commonItem/InformationText.qml</file>
+        <file>commonItem/ScrollingText.qml</file>
+        <file>commonItem/MyPathView.qml</file>
+        <file>commonItem/MySlider.qml</file>
+        <file>SongListScreen.qml</file>
+        <file>commonItem/ListButton.qml</file>
+        <file>MediaPlayScreen.qml</file>
+        <file>SearchListScreen.qml</file>
+    </qresource>
+</RCC>

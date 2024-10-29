@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/zoom.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/skip10s.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/shuffle.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/search.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/prev10s.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/play.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/pause.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/next.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/loop.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/list.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/left.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/home.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/back.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/shuffle1.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/loop1.png</file>
+    </qresource>
+</RCC>

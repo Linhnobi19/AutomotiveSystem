@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images/Flags"/>
+    <qresource prefix="/">
+        <file>images/checkMark.png</file>
+        <file>images/usFlag.png</file>
+        <file>images/vnFlag.png</file>
+        <file>images/qtQr.png</file>
+        <file>images/infoImage.png</file>
+        <file>images/backgroundSetting.jpg</file>
+        <file>images/hold.png</file>
+        <file>images/highlight.png</file>
+    </qresource>
+</RCC>

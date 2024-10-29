@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CommonComponent/ControlButton.qml</file>
+        <file>CommonComponent/CoverVideo.qml</file>
+        <file>ListViewVideo.qml</file>
+        <file>CommonComponent/ControlVolume.qml</file>
+        <file>ControlArea.qml</file>
+        <file>SourceImage/backButton.png</file>
+        <file>SourceImage/nextButton.png</file>
+        <file>SourceImage/playButton.png</file>
+        <file>SourceImage/volumeDownBtn.png</file>
+        <file>SourceImage/volumeUpBtn.png</file>
+        <file>SourceImage/pauseButton.png</file>
+        <file>CommonComponent/VideoSlider.qml</file>
+        <file>SourceImage/ZoomIcon.png</file>
+        <file>SourceImage/ListIcon.png</file>
+        <file>SourceImage/folderIcon.png</file>
+        <file>SourceImage/videoPlaying.png</file>
+        <file>CommonComponent/CoverIconVideoPlaying.qml</file>
+        <file>CommonComponent/CoverTextListView.qml</file>
+    </qresource>
+</RCC>

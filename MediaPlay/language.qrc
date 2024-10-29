@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>language/Media_VN.qm</file>
+        <file>language/Media_EN.qm</file>
+    </qresource>
+</RCC>

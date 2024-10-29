@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CommonComponent/CoverButton.qml</file>
+        <file>Page02.qml</file>
+        <file>Page01.qml</file>
+        <file>SourceImage/musicBtn.png</file>
+        <file>SourceImage/setttingBtn.png</file>
+        <file>SourceImage/videoBtn.png</file>
+        <file>CommonComponent/CustomPageIndicator.qml</file>
+        <file>CommonComponent/MovingText.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/CommonItems/DateBox.qml</file>
+        <file>qml/CommonItems/LanguageGroup.qml</file>
+        <file>qml/CommonItems/LanguageItem.qml</file>
+        <file>qml/CommonItems/LeftSetting.qml</file>
+        <file>qml/CommonItems/MyButton.qml</file>
+        <file>qml/CommonItems/PathElement.qml</file>
+        <file>qml/Screens/DateScreen.qml</file>
+        <file>qml/Screens/InfomationScreen.qml</file>
+        <file>qml/Screens/LanguageScreen.qml</file>
+        <file>qml/Screens/ResetScreen.qml</file>
+        <file>qml/Screens/VolumeScreen.qml</file>
+        <file>qml/main.qml</file>
+    </qresource>
+</RCC>

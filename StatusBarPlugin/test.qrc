@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>StatusBarPlug.qml</file>
+        <file>MyButton.qml</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/home.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/left.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/search.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/zoom.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/list.png</file>
+        <file>../build/Desktop_Qt_5_15_2_GCC_64bit-Debug/Resource/imageButton/folder.png</file>
+    </qresource>
+</RCC>

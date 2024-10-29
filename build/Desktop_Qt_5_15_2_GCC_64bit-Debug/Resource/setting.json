@@ -1,0 +1,9 @@
+{
+  "ID": "Setting Default App",
+  "values": {
+    "language": "EN",
+    "volume": 5,
+    "format24h": false,
+    "customizeDate": false
+  }
+}
